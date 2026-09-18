@@ -1,7 +1,7 @@
 
 # EX 3C Tug of War problem - Backtracking.
 
-## DATE: 13-08-2026
+## DATE: 25-08-2026
 
 ### Developed By: Nithish R
 
