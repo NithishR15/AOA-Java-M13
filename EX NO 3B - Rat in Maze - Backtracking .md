@@ -1,6 +1,6 @@
 # EX 3B Rat in Maze- Backtracking
 
-## DATE: 13-08-2026
+## DATE: 25-08-2026
 
 ### Developed By: Nithish R
 
